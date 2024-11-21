@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jarko-mach/firstTry/static/css/main.f855e6bc.css",
+    "main.js": "/jarko-mach/firstTry/static/js/main.de00aa8b.js",
+    "static/js/453.ed3810f9.chunk.js": "/jarko-mach/firstTry/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/jarko-mach/firstTry/index.html",
+    "main.f855e6bc.css.map": "/jarko-mach/firstTry/static/css/main.f855e6bc.css.map",
+    "main.de00aa8b.js.map": "/jarko-mach/firstTry/static/js/main.de00aa8b.js.map",
+    "453.ed3810f9.chunk.js.map": "/jarko-mach/firstTry/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.de00aa8b.js"
+  ]
+}
